@@ -2,24 +2,25 @@
 
 ### Robotics · Machine Vision · Factory Automation
 
-Automotive Engineering graduate with hands-on experience in **autonomous driving, smart factory systems, manufacturing equipment, PLC, robotics, and AI**.
+B.S. in **Intelligent Automotive Engineering** with hands-on experience across autonomous driving, smart factory systems, manufacturing equipment, PLC, robotics, and AI.
 
-I am interested in connecting **software, sensors, vision, robots, and industrial automation** to solve real manufacturing problems.
+I am especially interested in connecting:
 
-Currently studying the **Intel AI Convergence DX Master Class (Jun–Dec 2026)** and expanding my skills in robotics, machine vision, PLC, Python, C++, and AI.
+**Software → Sensors → Vision → Control → Robots → Physical Systems**
+
+My current goal is to build practical engineering skills in **Robotics, Machine Vision, and Industrial Automation**.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.S. in Intelligent Automotive Engineering, Silla University**
-- 🚗 2 years of autonomous driving research and capstone project experience
+- 🎓 B.S. in Intelligent Automotive Engineering, Silla University
+- 🚗 2 years of autonomous driving project experience
 - 🏭 Smart Factory experience with MES, ERP, SQL, production data, and automation
-- ⚙️ Manufacturing field experience in automotive equipment maintenance and metal manufacturing quality
-- 🤖 Currently studying robot programming, robot engineering, PLC, AI, and industrial automation
-- 👁️ Expanding into Machine Vision and OpenCV-based industrial applications
-
-My goal is to become an engineer who can understand both the **physical manufacturing system** and the **software that controls and analyzes it**.
+- ⚙️ Manufacturing field experience in automotive equipment maintenance and manufacturing quality
+- 🤖 Currently studying PLC, robot programming, AI, and industrial automation
+- 👁️ Expanding into OpenCV and Machine Vision
+- 💻 Developing with Python and C++
 
 ---
 
@@ -27,9 +28,9 @@ My goal is to become an engineer who can understand both the **physical manufact
 
 ## 🚗 Autonomous Delivery Robot
 
-### Vision-Based Autonomous Driving with CNN and Multi-Sensor Control
+**Raspberry Pi · Python · CNN · Camera · IR Sensor · Ultrasonic Sensor · PWM**
 
-Two-year autonomous driving project developed from a simple indoor prototype into a camera and CNN-based outdoor autonomous robot.
+A university autonomous-driving project that evolved from an indoor Arduino prototype into a Raspberry Pi-based outdoor autonomous delivery vehicle.
 
 ### 2022 — Indoor Prototype
 
@@ -40,125 +41,106 @@ Two-year autonomous driving project developed from a simple indoor prototype int
 - Approximately 10 m indoor autonomous driving
 - Object transportation
 
-### 2023 — Outdoor Autonomous Robot
+### 2023 — Outdoor Version
 
-- Raspberry Pi
-- Python
-- Camera-based vision system
-- CNN-based image recognition
-- IR and ultrasonic sensors
-- Sensor and image data collection
-- Autonomous speed control
+- Raspberry Pi and Python
+- Camera-based driving data collection
+- CNN-based road / obstacle classification
+- IR sensor line tracking
+- Ultrasonic distance sensing
+- Dynamic speed control
 - Approximately 50 m outdoor autonomous driving
 - Object transportation
 
 ### My Role
 
 - 5-member team leader
-- System design and development coordination
-- Sensor integration
-- Data collection
-- CNN model training
-- Autonomous driving testing
-- Troubleshooting and system improvement
-- Final project presentation
+- Sensor integration and system design
+- Driving-data collection
+- CNN training
+- Vehicle testing and troubleshooting
+- Project coordination and presentation
 
 🏆 **Capstone Design Competition Award — 2023**
 
-Repository:
+> The current GitHub repository is a technical reconstruction based on the original 2022–2023 project architecture, workflow, hardware configuration, and remembered control logic because the original source code was not preserved.
 
-`autonomous-delivery-robot`
+**Repository:** `autonomous-delivery-robot`
 
 ---
 
-## ♻️ Recycling Project
+## ♻️ GROUND Smart Recycling System
 
-### AI-Assisted Recycling / Waste Sorting Project
+**Arduino · Sensors · Servo Motor · Conveyor · Automation · Smart Factory**
 
-A project focused on applying AI-assisted development and software tools to a recycling-related problem.
+A team project designed as a small-scale **automatic recycling and smart-factory educational system**.
 
-Key areas:
+The project applies the manufacturing process concept:
 
-- Problem definition and project planning
-- Programming and application development
-- AI-assisted development workflow
-- Git and GitHub collaboration
+**Detection → Decision → Transfer → Sorting → Data Management**
+
+### Project Goals
+
+- Automatic waste detection
+- Waste type classification
+- Conveyor-based transportation
+- Servo-motor sorting
+- Collection quantity monitoring
+- LCD data display
+- Bin-level monitoring and alerts
+- Expansion toward IoT and AI
+
+### My Role
+
+- Project planning
+- Proposal development
+- Overall presentation coordination
 - Project documentation
-- Practical application of software to a real-world problem
 
-Repository:
+The project was developed from an environmental recycling idea into an educational platform for learning **Arduino, sensors, motors, and factory automation**.
 
-`recycling-project`
-
-> This project repository will be expanded with technical details, screenshots, system architecture, source code, and project results.
+**Repository:** `recycle-project`
 
 ---
 
-# 🏭 Smart Factory & Automation Experience
+# 🏭 Engineering Experience
 
-### Smart Factory Program | 2022–2023
+## Smart Factory
 
-Studied and practiced manufacturing digitalization technologies including:
+Studied and practiced:
 
-- MES
-- ERP
-- SQL
-- Production data collection
-- AI
-- Digital Twin
-- Manufacturing monitoring
-- Inventory and production management
+`MES` `ERP` `SQL` `Production Data` `Digital Twin` `AI` `Automation`
 
-Participated in a project focused on improving manufacturing data collection, monitoring, and inventory management.
-
-This experience led me to become interested in the connection between:
-
-**Manufacturing → Data → Automation → AI**
+Participated in manufacturing-data projects involving production monitoring, automated data collection, inventory management, and smart-factory systems.
 
 ---
 
-# 🔧 Manufacturing Field Experience
+## Manufacturing Field
 
-I have also experienced manufacturing systems directly in real production environments.
+### Automotive Equipment Maintenance
 
-### Automotive Manufacturing Equipment
+Exposure to real manufacturing equipment including:
 
-Experience with and exposure to:
+`Industrial Robots` `Jigs` `Presses` `FSW` `Pumps` `Compressors` `Electrical Panels`
 
-- Industrial robots
-- Jigs
-- Press equipment
-- FSW equipment
-- Pumps
-- Compressors
-- Electrical panels
-- Equipment maintenance
-
-### Metal Manufacturing Quality
+### Manufacturing Quality
 
 Experience with:
 
-- Dimensional inspection
-- Hardness testing
-- Tensile testing
-- Spectrometer analysis
-- MT / PT / PMI
-- Heat-treatment chart management
-- ERP LOT management
-- Product shipment and traceability
+`Dimensional Inspection` `Hardness Testing` `Tensile Testing`  
+`Spectrometer` `MT / PT / PMI` `Heat Treatment` `ERP LOT Traceability`
 
-These experiences helped me understand that industrial software and automation must ultimately work reliably with **real equipment, real processes, and real production constraints**.
+These experiences helped me understand that automation software ultimately has to work reliably with **real machines, real processes, and real production constraints**.
 
 ---
 
 # 🤖 Current Learning — 2026
 
-## Intel AI Convergence DX Master Class
-
+### Intel AI Convergence DX Master Class
 **Busan Chamber of Commerce & Industry HRD Institute**  
 **Jun 2026 – Dec 2026**
 
-Currently studying and practicing:
+Currently expanding my skills in:
 
 - Python
 - C++
@@ -177,28 +159,22 @@ Currently studying and practicing:
 
 # 🛠 Tech Stack
 
-## Programming
-
+### Programming
 `Python` `C++` `SQL`
 
-## AI & Data
-
+### AI & Data
 `TensorFlow` `NumPy` `Pandas` `CNN`
 
-## Computer Vision
-
+### Computer Vision
 `OpenCV` `Camera Vision`
 
-## Embedded & Hardware
-
+### Embedded & Hardware
 `Arduino` `Raspberry Pi` `IR Sensor` `Ultrasonic Sensor`
 
-## Robotics & Automation
+### Robotics & Automation
+`PLC` `Robot Teaching` `Motor Control` `Sensors` `Actuators`
 
-`PLC` `Robot Teaching` `Motor Control` `Sensors` `Actuators` `Industrial Automation`
-
-## Development Tools
-
+### Development Tools
 `Git` `GitHub` `VS Code` `Visual Studio` `Google Colab` `Jupyter Notebook`
 
 ---
@@ -207,49 +183,28 @@ Currently studying and practicing:
 
 ```text
 Intelligent Automotive Engineering
-              │
-              ▼
+              ↓
       Autonomous Driving
-              │
-              ├── Arduino
-              ├── Raspberry Pi
-              ├── Sensors
-              ├── Camera
-              └── CNN
-              │
-              ▼
-        Smart Factory
-              │
-              ├── MES / ERP
-              ├── SQL
-              ├── Production Data
-              └── Automation
-              │
-              ▼
-     Manufacturing Experience
-              │
-              ├── Equipment Maintenance
-              ├── Industrial Robots
-              └── Quality / Traceability
-              │
-              ▼
-       PLC & Robotics
-              │
-              ▼
-      Machine Vision + AI
-              │
-              ▼
-Robotics / Machine Vision / Automation Engineer
+              ↓
+     Sensors + Camera + CNN
+              ↓
+         Smart Factory
+              ↓
+Manufacturing Field Experience
+              ↓
+        PLC & Robotics
+              ↓
+     Machine Vision + AI
+              ↓
+Robotics / Machine Vision / Automation
 ```
 
 ---
 
 # 🎯 Current Focus
 
-I am currently focusing on the intersection of:
-
 ### 🤖 Robotics
-Robot programming, teaching, motion, sensors, and industrial robot applications
+Robot programming, teaching, motion control, sensors, and industrial robot applications
 
 ### 👁️ Machine Vision
 OpenCV, cameras, image processing, object recognition, and manufacturing inspection
@@ -264,12 +219,8 @@ Connecting AI software with cameras, sensors, robots, and physical equipment
 
 ## 💡 Engineering Philosophy
 
-I am most interested in systems where software does not remain only on a computer.
-
-I enjoy understanding how:
+I am most interested in software that interacts with the physical world.
 
 **Code → Sensor → Decision → Controller → Motor / Robot → Physical Movement**
 
-connects together.
-
-My long-term goal is to develop practical engineering skills that combine **robotics, machine vision, AI, and factory automation** for real industrial environments.
+My goal is to become an engineer who can understand both **the physical manufacturing system and the software that controls, monitors, and improves it**.
