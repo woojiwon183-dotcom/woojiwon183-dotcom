@@ -1,4 +1,3 @@
-# woojiwon183
 # 👋 Hi, I'm Woo Jiwon
 
 ### Robotics · Machine Vision · Factory Automation
